@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 9C70-F01C
+
+ Directory of C:\Users\HL694MJ\Desktop\Automation\GIT Practice
+
+29-03-2020  13:03    <DIR>          .
+29-03-2020  13:03    <DIR>          ..
+29-03-2020  13:03                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  381,230,309,376 bytes free
